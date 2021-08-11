@@ -1,0 +1,11 @@
+#output {
+  border: 2px solid darkcyan;
+  padding: 2px;
+  color:#9534e5;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: darkcyan;
+}
